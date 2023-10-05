@@ -1,6 +1,6 @@
 ## NRTPythonWorkshop: Ocotber 20, 2023
 
-[See course materials here](https://)
+[See course materials here](https://github.com/sloverde/NRTPythonWorkshop))
 
 ### Overview
 The materials provided herein are prepared for an introduction to the HPCC at CUNY and an introduction to Python for analysis of datasets.
