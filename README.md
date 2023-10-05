@@ -1,4 +1,4 @@
-## NRTPythonWorkshop: Ocotber 20, 2023
+## NRTPythonWorkshop: October 20, 2023
 
 [See course materials here](https://github.com/sloverde/NRTPythonWorkshop)
 
