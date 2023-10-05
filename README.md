@@ -1,20 +1,25 @@
-# NRTPythonWorkshop
+## NRTPythonWorkshop: Ocotber 20, 2023
 
-Introduction to the HPCC and Python
+[See course materials here](https://)
 
-12-12:45 Tour HPCC 1M 206
+### Overview
+The materials provided herein are prepared for an introduction to the HPCC at CUNY and an introduction to Python for analysis of datasets.
 
-Walk to 6S-232
+### HPCC Tour (12-12:45)
+Alex Tzanov, HPCC Director
 
-1-2:30 Loverde Group
-30 min Sharon
-30 min Augustine
-30 min Tania
+### Introduction (1-1:30)
+Sharon and Mateusz
 
-Break 2:30-3
+### Activity 1 (1:30-2)
+Augustine Onyema
 
-3-4:30 Marianski group
-30 min Mateusz
-30 min students
+### Activity 2 (2-2:30)
+Tania Rajpersaud
 
+### Organizers
+The organizers of the workshop and associated website were are Sharon M. Loverde (CUNY Staten Island) and Mateusz Marianski (Hunter College).
 
+### Additional References
+Intro to Python Books
+MolSSI materials
