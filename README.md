@@ -1,5 +1,9 @@
 # NRTPythonWorkshop
 
+
+https://sites.google.com/site/loverdelaboratory/home![image](https://github.com/sloverde/NRTPythonWorkshop/assets/55510366/e0905015-ebb2-4fc4-acc6-6a9eed90f4a8)
+
+
 Introduction to the HPCC and Python
 
 12-12:45 Tour HPCC 1M 206
