@@ -9,13 +9,21 @@ The materials provided herein are prepared for an introduction to the HPCC at CU
 Alex Tzanov, HPCC Director
 
 ### Introduction (1-1:30)
-Sharon and Mateusz
+Sharon 
 
 ### Activity 1 (1:30-2)
 Augustine Onyema
 
 ### Activity 2 (2-2:30)
 Tania Rajpersaud
+
+### BREAK
+
+### Activity 3 (3-3:30)
+Mateusz Marianski
+
+### Activity 4 (3:30-4)
+Murat Yaman
 
 ### Organizers
 The organizers of the workshop and associated website were are Sharon M. Loverde (CUNY Staten Island) and Mateusz Marianski (Hunter College).
