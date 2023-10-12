@@ -1,6 +1,6 @@
 ## NRTPythonWorkshop: October 20, 2023
 
-[See Python Notebook 1 here](https://colab.research.google.com/drive/19wIrxTQTi9e2wFoNaJo9iJW-60ITGX8i?usp=sharing))
+[See Python Notebook 1 here](https://colab.research.google.com/drive/19wIrxTQTi9e2wFoNaJo9iJW-60ITGX8i?usp=sharing)
 
 ### Overview
 The materials provided herein are prepared for an introduction to the HPCC at CUNY and an introduction to Python for analysis of datasets.
