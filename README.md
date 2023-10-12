@@ -9,7 +9,7 @@ The materials provided herein are prepared for an introduction to the HPCC at CU
 Alex Tzanov, HPCC Director
 
 ### Introduction (1-1:30)
-Sharon 
+Sharon Loverde
 
 ### Activity 1 (1:30-2)
 Augustine Onyema
