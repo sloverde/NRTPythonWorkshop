@@ -29,5 +29,5 @@ Murat Yaman
 The organizers of the workshop and associated website were are Sharon M. Loverde (CUNY Staten Island) and Mateusz Marianski (Hunter College).
 
 ### Additional References
-Intro to Python Books
-MolSSI materials
+[Intro to Python for Science and Engineering, David Pine](https://physics.nyu.edu/pine/IntroPythonSciEngPINEsample.pdf)
+[MolSSI materials: Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/01-introduction/index.html)
