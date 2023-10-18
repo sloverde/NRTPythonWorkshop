@@ -4,6 +4,8 @@
 
 [See Python Notebook 2 here](https://colab.research.google.com/drive/17olGflUItt8urHjLkkEiUhO1_uIB2jAS#scrollTo=zqgddh7mXn5z)
 
+[Getting to College of Staten Island](https://csi-undergraduate.catalog.cuny.edu/transportation-directions-and-parking)
+
 [CUNY CSI Campus Map](https://www.csi.cuny.edu/sites/default/files/pdf/aboutcsi/map.pdf)
 
 [How to Connect to Eduroam at CSI](https://www.csi.cuny.edu/online-resources/eduroam)
