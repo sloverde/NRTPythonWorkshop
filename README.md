@@ -4,11 +4,17 @@
 
 [See Python Notebook 2 here](https://colab.research.google.com/drive/17olGflUItt8urHjLkkEiUhO1_uIB2jAS#scrollTo=zqgddh7mXn5z)
 
+[CUNY CSI Campus Map](https://www.csi.cuny.edu/sites/default/files/pdf/aboutcsi/map.pdf)
+
+[How to Connect to Eduroam at CSI](https://www.csi.cuny.edu/online-resources/eduroam)
 ### Overview
 The materials provided herein are prepared for an introduction to the HPCC at CUNY and an introduction to Python for analysis of datasets.
 
 ### HPCC Tour (12-12:45)
 Alex Tzanov, HPCC Director
+Location (1M-206)
+
+### Walk from 1M-206 to 6S-235
 
 ### Introduction (1-1:30)
 Sharon Loverde
