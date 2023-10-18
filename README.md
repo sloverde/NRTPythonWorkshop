@@ -7,14 +7,14 @@
 [CUNY CSI Campus Map](https://www.csi.cuny.edu/sites/default/files/pdf/aboutcsi/map.pdf)
 
 [How to Connect to Eduroam at CSI](https://www.csi.cuny.edu/online-resources/eduroam)
+
 ### Overview
 The materials provided herein are prepared for an introduction to the HPCC at CUNY and an introduction to Python for analysis of datasets.
 
-### HPCC Tour (12-12:45)
+### HPCC Tour (12-12:45) Location 1M-206
 Alex Tzanov, HPCC Director
-Location (1M-206)
 
-### Walk from 1M-206 to 6S-235
+### Walk from 1M-206 to 6S-235 (12:45-1)
 
 ### Introduction (1-1:30)
 Sharon Loverde
