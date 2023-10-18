@@ -16,7 +16,7 @@ The materials provided herein are prepared for an introduction to the HPCC at CU
 ### HPCC Tour (12-12:45) Location 1M-206
 Alex Tzanov, HPCC Director
 
-### Walk from 1M-206 to 6S-235 (12:45-1)
+### Walk from 1M-206 to 6S-232 (12:45-1)
 
 ### Introduction (1-1:30)
 Sharon Loverde
